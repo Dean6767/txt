@@ -1,0 +1,105 @@
+ 
+#! / bin / bash
+cd  $ HOME
+    mv deanmbsfree $ PREFIX / bin / deanmbsfree
+    chmod + x $ PREFIX / bin / deanmbsfree
+clear
+echo -e "\033[0;105m━━━━━━━━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[44;1;105m               MB'S HUNTER  🧔          \E[0m"
+echo -e "\033[0;105m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " "                  
+                echo -e " \033[1;97mㅤㅤㅤ By @GUGUHOMEMDELETRAS \033[0m"
+                echo -e " \033[1;97mㅤㅤㅤ TELEGRAM CHANNEL @RevHunter  \033[0m"
+echo -e " "
+echo -e " \033[42;1;37m ㅤㅤㅤENVIAR REQUEST {MBS VIVO} \033[0m "
+echo -e " "
+echo -e "\033[01;37mㅤㅤㅤㅤㅤㅤTRUE = \033[01;32mPOSSÍVEL ENVIO DOS MBS! \033[01;37m| FALSE = \033[01;31mCHIP NÃO ELEGÍVEL!"
+echo -e " "
+sleep 1
+          echo -e "\033[01;32mㅤㅤㅤINFORME SEU NÚMERO 55+DDD+NÚMERO\033[01;37m"
+read NUMERO
+echo -e "\033[01;32mㅤㅤREPETIR O PROCESSO QUANTAS VEZES?\033[1;37m"
+read VEZES
+echo ""
+echo -e "\033[0m\033[01;33mㅤㅤㅤENVIANDO REQUEST , AGUARDE... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=03bc4539-13db-4045-9119-a937eb48d41d&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo -e ""
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=9576e551-97a1-4744-aded-5c8368182306&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo ""
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=91e22bd5-7b79-4fef-8dfa-c40f1ff3736b&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo ""
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=4919b47c-f588-4e71-87e3-639b3af92e4d&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo ""
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=19313963-7198-4a33-9511-1c72c7d6152a&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo " "
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=db6327ec-3ad5-46a4-881e-1deff71c879a&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo " "
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=6c360891-8ce5-45ba-a2c3-97e0a7139d99&&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo " "
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=6e7eb039-9816-4118-9c3b-bb906887722c&&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo " "
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=f79ae136-8dcd-40c5-8421-d1371c9e50d1&&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo " "
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=f922b71c-8b48-4363-a9fd-74c0757c161d&&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo " "
+echo -e "\033[0m\033[01;33mㅤㅤㅤESTA SENDO REQUISITADO... \033[03;037m"
+for i in $(seq $VEZES);
+do
+data=$"msisdn=$NUMERO&campid=ddf114e4-c29b-44f1-b04b-1621234f2f5d&opCode&&opCode=VV" && site="http://interatividade.vivo.ddivulga.com/carrotProcess" && curl "${site}" -d "${data}"
+echo -e "\033[0m\033[01;32mCONTAGEM:\033[01;37m$i\033[03;037m"
+done
+echo  " "
+echo -e "\033[0;35mOI MEU CHAPA ;) SE ESTÁ VENDO ESSA MENSAGEM , "FOSEE" É FIADINHO\033[0m"
+echo  " "
+echo -e "\033[41;1;37m, DIGITE CLEAR PARA SAIR 🔴\033[0m"
+echo  " "
+clear
