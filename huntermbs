@@ -1,8 +1,8 @@
  
 #! / bin / bash
 cd  $ HOME
-    mv deanmbsfree $ PREFIX / bin / deanmbsfree
-    chmod + x $ PREFIX / bin / deanmbsfree
+    mv huntermbs $ PREFIX / bin / huntermbs
+    chmod + x $ PREFIX / bin / huntermbs
 clear
 echo -e "\033[0;105m━━━━━━━━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "\E[44;1;105m               MB'S HUNTER  🧔          \E[0m"
